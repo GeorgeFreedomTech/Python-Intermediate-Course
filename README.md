@@ -38,8 +38,7 @@ Upon completing this expedition, you will be able to:
 * Write more concise and efficient "Pythonic" code using comprehensions and advanced functions.
 * Structure a project into multiple modules and manage dependencies in a virtual environment.
 * Interact with your computer's file system to read, write, and manage files programmatically.
-*  Retrieve and parse data from websites and APIs using standard Python libraries.
-* Implement robust error handling to make your applications more reliable.
+* Retrieve and parse data from websites and APIs using standard Python libraries.
 * Apply principles of good code design, documentation, and refactoring.
   
 ## 🎒 Prerequisites / Advanced Gear-Up:
