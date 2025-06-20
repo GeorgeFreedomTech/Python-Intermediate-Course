@@ -1,0 +1,83 @@
+<!DOCTYPE html> <!-- Tells the browser this is an HTML document -->
+<html lang="en"> <!-- The HTML content itself, language set to English -->
+
+<head> <!-- Page information for the browser, typically full of META tags -->
+
+    <!-- Meta tags for Search Engine Optimization (SEO) and page info -->
+    <meta name="description" content="This page is for training purposes.">
+    <meta name="keywords" content="html, css, python, intermediate, web structure">
+    <meta name="author" content="Your Name">
+
+    <!-- Essential meta tags for character encoding and responsive design -->
+    <meta charset="UTF-8">
+    <!-- Defines how the page should be displayed, e.g., on mobile devices -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- The page's own title (visible in the browser tab) -->
+    <title>Training Page</title> 
+    
+    <!-- CSS style = defining style directly in HTML using a tag or a class.
+    By tag name: `h2 {color: red}` = all elements with the h2 tag will be red.
+    By class name: `.highlight-blue {color: blue}` = elements with class="highlight-blue" will be blue.
+
+    These styles can be stored: 
+    - Either in a style.css file (external)
+    - Or for simple styles, in the HTML within a "<style>" block in the "<head>" section (internal)
+    -->
+
+    <!-- Internal CSS style = defining style in HTML -->
+    <style>
+        h2 {color: red}  
+        .highlight-blue {color: blue}
+    </style>
+
+    <!-- External CSS stylesheet link = tags and classes are defined in a separate css file -->
+    <link rel="stylesheet" href="style.css" type="text/css"> 
+
+</head>
+
+
+<body>  <!-- Page body = the content that is visible in the browser -->
+
+    <nav> <!-- Navigation bar -->
+        <ul>
+            <li><a href="introduction.html">Introduction</a></li> <!-- Links to my other HTML pages -->
+            <li><a href="about.html">About</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+
+    <h1>Main Page Heading</h1> <!-- Heading level 1 -->
+
+    <p>Welcome to the page</p> <!-- text - paragraph -->
+    <p>another line of text</p> <!-- text - another paragraph -->
+
+    <h2>About This Page</h2> <!-- Heading level 2 -->
+    <p class="highlight-blue">another line of text</p>
+    <p>another line of text</p>
+
+    <h2>Gallery</h2> <!-- Heading level 2 -->
+    <p>Python logos</p>
+    <!-- Images - with a link to their location (either on the internet or a local file) -->
+    <img width="450" src="https://python.org/static/community_logos/python-logo.png" alt="Python internet logo"> <!-- internet logo -->
+    <p>Python rules them all</p>
+    <img height="450" src="my_logo.jpeg" alt="My own Python logo"> <!-- my_logo.jpeg is a local file in the same folder -->
+
+
+    <ul> <!-- ul = unordered list -->
+        <li>Base Camp Alpha</li> <!-- li = list item -->
+        <li>Waypoint Beta</li>
+        <li>Sector Gamma</li>
+    </ul> <!-- end of the list -->
+
+    <h3>Links</h3>
+    <ul> <!-- ul = unordered list -->
+        <!-- anchor tags - links to web pages -->
+        <li><a href="https://google.com" target="_blank" alt="alternative description for screen reader">Google link</a></li> 
+        <li><a href="https://duckduckgo.com" target="_blank">Duckduckgo link</a></li> <!-- li = list item -->
+    </ul>
+    
+</body> <!-- end of body -->
+
+</html> <!-- end of html -->
