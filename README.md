@@ -2,7 +2,7 @@
 
 By **George Freedom Tech** (George Freedom - Tech Educator & Strategic Mentor)
 
-A comprehensive course designed as the follow-up to the 'Python Foundations Course' series. In this course (Lessons 1-11) you are going to explore professional techniques, practical libraries for web and system interaction that prepare you for more complex projects.
+A comprehensive course designed as the follow-up to the 'Python Foundations Course' series. In this course (Lessons 1-12) you are going to explore professional techniques, practical libraries for web and system interaction that prepare you for more complex projects.
 
 ---
 
