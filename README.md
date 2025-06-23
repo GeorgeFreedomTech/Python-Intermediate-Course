@@ -26,10 +26,11 @@ Module 2: Interacting with the Local Environment
 * **Lesson 8: Python Environments & pip** - Managing your digital workshop
   
 Module 3: Web Reconnaissance & Data Extraction
-* **Lesson 9: Introduction to HTML & CSS** - Understanding your target's structure
-* **Lesson 10: The requests Library** - Launching data probes to fetch remote data
-* **Lesson 11: Parsing with BeautifulSoup** - Deciphering digital artifacts
-* **Lesson 12: Working with APIs** - Querying remote data beacons
+* **Lesson 9: Introduction to HTML & CSS** - Understanding your target's structure.
+* **Lesson 10: The requests Library** - Launching data probes to fetch remote data.
+* **Lesson 11: Parsing with BeautifulSoup** - Deciphering digital artifacts.
+* **Lesson 12: Working with APIs** - Querying remote data beacons.
+* **Lesson 13: Way of an apprentice** - Expand your toolkit, get ready for system architecture.
   
 ## 🎯 Learning Objectives / New Treasures to Uncover:
 
