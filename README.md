@@ -6,7 +6,7 @@ A comprehensive course designed as the follow-up to the 'Python Foundations Cour
 
 ---
 
-## 🚀 Welcome to Your Next Expedition!
+## 🚀 The Adventure Continues!
 This repository hosts **"Python Intermediate: From Practical Techniques to System Interaction"** - Presented in Jupyter Notebooks and Python scripts.
 
 This course is for learners who have mastered the basics and are ready to build complex, efficient, and robust applications by interacting with the web, the file system, and external data sources.
