@@ -90,7 +90,7 @@ Ready to continue your tech exploration or need personalized guidance?
 
 * Visit my website: [https://GeorgeFreedom.com](https://GeorgeFreedom.com)
 * Connect on LinkedIn: [https://www.linkedin.com/in/georgefreedom/](https://www.linkedin.com/in/georgefreedom/)
-* Book a Mentoring Session: [https://cal.com/george-freedom-tech-mentor](https://cal.com/george-freedom-tech-mentor)
+* Book a Mentoring Session: [https://cal.com/georgefreedom](https://cal.com/georgefreedom)
 
 ## 📜 License:
 
