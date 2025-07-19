@@ -1,6 +1,6 @@
 # Python Intermediate Course - Applied Techniques & Systems
 
-By **George Freedom Tech** (George Freedom - Tech Educator & Strategic Mentor)
+By **George Freedom**
 
 A comprehensive course designed as the follow-up to the 'Python Foundations Course' series. In this course (Lessons 1-12) you are going to explore professional techniques, practical libraries for web and system interaction that prepare you for more complex projects.
 
