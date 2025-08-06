@@ -86,11 +86,9 @@ The lessons are provided as Jupyter Notebook (`.ipynb`) files. To use them:
   
 ## 🔗 Next Steps & Connect:
 
-Ready to continue your tech exploration or need personalized guidance?
-
 * Visit my website: [https://GeorgeFreedom.com](https://GeorgeFreedom.com)
 * Connect on LinkedIn: [https://www.linkedin.com/in/georgefreedom/](https://www.linkedin.com/in/georgefreedom/)
-* Book a Mentoring Session: [https://cal.com/georgefreedom](https://cal.com/georgefreedom)
+* Let's talk: [https://cal.com/georgefreedom](https://cal.com/georgefreedom)
 
 ## 📜 License:
 
