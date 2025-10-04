@@ -58,7 +58,7 @@ The lessons are provided as Jupyter Notebook (`.ipynb`) files. To use them:
 
 1.  **Clone or Download:** Get a copy of this repository onto your local machine.
     ```bash
-    git clone https://github.com/GeorgeFreedomTech/python-foundations-course.git
+    git clone https://github.com/GeorgeFreedomTech/python-intermediate-course.git
     ```
 2.  **Ensure Jupyter is Installed:** You'll need Jupyter Notebook or JupyterLab.
     * The common way is to install the Anaconda Distribution (which includes Jupyter).
