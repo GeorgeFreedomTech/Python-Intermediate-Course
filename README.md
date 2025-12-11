@@ -44,9 +44,9 @@ Upon completing this expedition, you will be able to:
   
 ## 🎒 Course Prerequisites / Advanced Gear-Up:
 
-* A solid understanding of Python fundamentals (variables, data types, lists, dictionaries, loops, basic functions) as covered in the Python Foundations course or equivalent experience.
-* A working Python installation.
-* Comfort with using the terminal/command line for basic commands.
+* A solid understanding of Python topics covered in the **[Python Foundations Course](https://github.com/GeorgeFreedomTech/python-foundations-course)**course or equivalent experience.
+* This includes undestanding of variables, data types, lists, dictionaries, loops and basic functions.
+* Willingness to learn & enjoy!
 
 ## 🧭 How to Get and Run Course Materials:
 
@@ -77,11 +77,11 @@ This is the best way to work if you want to keep everything on your own computer
 * Jupyter Extension for VS Code installed (search for "Jupyter" by Microsoft in the Extensions marketplace).
 
 **Steps:**
-* Open VS Code.
-* Go to File > Open Folder... and select the folder you downloaded/cloned.
-* Click on any file ending in **.ipynb**.
-* In the top-right corner, click Select Kernel and choose your Python version (or venv).
-* You can now run the code cells by clicking the "Play" button next to them.
+1. Open VS Code.
+2. Go to File > Open Folder... and select the folder you downloaded/cloned.
+3. Click on any file ending in **.ipynb**.
+4. In the top-right corner, click Select Kernel and choose your Python version (or venv).
+5. You can now run the code cells by clicking the "Play" button next to them.
 
 #### Option 2: Google Colab (Alternative - Online)
 If you cannot install Python locally or want to try the code quickly in your browser.
@@ -90,11 +90,11 @@ If you cannot install Python locally or want to try the code quickly in your bro
 * You have to have a Google account
   
 **Steps:**
-* Go to **colab.research.google.com**.
-* Log in with your **Google Account**.
-* Select the **GitHub tab** in the pop-up window.
-* Paste the URL of this repository and search.
-* Click on the notebook you want to open.
+1. Go to **colab.research.google.com**.
+2. Log in with your **Google Account**.
+3. Select the **GitHub tab** in the pop-up window.
+4. Paste the URL of this repository and search.
+5. Click on the notebook you want to open.
 * **Alternatively:** You can go to the Upload tab and upload the **.ipynb file** you downloaded in Part 1.
   
 ## 💡 Purpose of This Repository:
